@@ -10,3 +10,6 @@ webserver: httpd
 
 reverse proxy: relayd
 
+# development
+
+unveil needs to allow firefox to acess project files
