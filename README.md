@@ -1,6 +1,3 @@
-yuuwe.com
-=========================================================
-
 # inspiration
 
 [parran](https://www.ocf.berkeley.edu/~parran/)
