@@ -1,4 +1,5 @@
-# yuuwe.com
+yuuwe.com
+=========================================================
 
 # inspiration
 
@@ -11,6 +12,8 @@
 [dennis ritchie](https://www.bell-labs.com/usr/dmr/www/)
 
 [bwk](https://www.cs.princeton.edu/~bwk/)
+
+[mcilroy](https://www.cs.dartmouth.edu/~doug/)
 
 [rob](http://herpolhode.com/rob/)
 
