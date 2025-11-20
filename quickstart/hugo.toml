@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'yuuwe'
+theme = 'hugo-papermod'
+
+# themes
+# 1. hugo-papermod
+# 2. archie
+# 3. chicago7
+# 4. no-style-please

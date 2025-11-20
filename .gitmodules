@@ -1,0 +1,18 @@
+[submodule "quickstart/themes/chicago7"]
+	path = quickstart/themes/chicago7
+	url = https://github.com/akopdev/hugo-theme-chicago7
+[submodule "quickstart/themes/archie"]
+	path = quickstart/themes/archie
+	url = https://github.com/athul/archie
+[submodule "quickstart/themes/hugo-xmin"]
+	path = quickstart/themes/hugo-xmin
+	url = https://github.com/yihui/hugo-xmin
+[submodule "quickstart/themes/hugo-bearblog"]
+	path = quickstart/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog
+[submodule "quickstart/themes/no-style-please"]
+	path = quickstart/themes/no-style-please
+	url = https://github.com/hanwenguo/hugo-theme-nostyleplease
+[submodule "quickstart/themes/hugo-papermod"]
+	path = quickstart/themes/hugo-papermod
+	url = https://github.com/adityatelange/hugo-PaperMod
