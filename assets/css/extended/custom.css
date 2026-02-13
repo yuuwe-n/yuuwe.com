@@ -1,0 +1,16 @@
+
+/* Remove header */
+.header {
+    display: none !important;
+}
+
+/* Remove footer */
+.footer {
+    display: none !important;
+}
+
+/* Optional: Remove main menu spacing */
+.main {
+    margin-top: 0 !important;
+}
+
