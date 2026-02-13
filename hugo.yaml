@@ -1,0 +1,16 @@
+baseURL: https://yuuwe.com
+languageCode: en-us
+title: yuuwe.com
+
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "Hi this is Duy!"
+#    subtitle: "yuuwe.com"
+    buttons:
+      - name: life.yuuwe.com
+        url: "https://life.yuuwe.com"
+      - name: duy-nguyen.com
+        url: "https://github.com/"
